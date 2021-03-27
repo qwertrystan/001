@@ -1,0 +1,125 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+  font-size: 150%;
+  color: #40514e;
+}
+
+h1 {
+  font-size: 5rem; /* Hindi naapektuhan ng ibang font-size pag REM, note: 16px = 100% = 1em */
+  margin: 3.125% auto 0 auto;
+  font-family: "Pacifico", cursive;
+  color: #66bfbf;
+}
+
+.prof {
+  font-weight: normal;
+}
+
+h2 {
+  color: #11999e;
+  font-family: "Montserrat", sans-serif;
+  padding: 0.625%;
+}
+
+h3 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 2rem;
+  color: #66bfbf;
+}
+
+p {
+  line-height: 2;
+}
+
+hr {
+  border: dotted #eaf6f6 0.375%;
+  border-bottom: none;
+  width: 5%;
+  margin: 6.25% auto;
+}
+
+a {
+  color: #03506f;
+  font-family: "Montserrat", sans-serif;
+  margin: 0.625% 0.625%;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #eaf6f6;
+}
+
+.top-container {
+  background-color: #e4f9f5;
+  position: relative;
+  padding-top: 7.8125%;
+}
+
+.mid-container {
+  margin: 6.25% 0;
+}
+
+.bot-container {
+  background-color: #66bfbf;
+  padding: 3.125% 0px 1.25%;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 6.25% auto 6.25% auto;
+  text-align: left;
+}
+
+.skill-row2 {
+  width: 50%;
+  margin: 6.25% auto 6.25% auto;
+  text-align: right;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+.contact-message {
+  width: 40%;
+  margin: 2.5% auto 3.75%;
+}
+
+.copyright {
+  color: #eaf6f6;
+  font-size: 0.75rem;
+  padding: 1.25% 0;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 15.625%;
+  top: 2.5%;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 15.625%;
+  bottom: 18.75%;
+}
+
+.skill-img {
+  width: 25%;
+  float: left;
+  margin: right 1.875%;
+}
+
+.btn {
+  font-family: "Montserrat", sans-serif;
+  color: #03506f;
+  font-size: 30px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: black;
+}
